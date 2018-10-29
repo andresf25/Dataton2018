@@ -1,0 +1,26 @@
+
+FASE DE EXPLORACION Y IMPUTACION DE DATOS
+
+El archivo datos_bc.csv.profile.html tiene un perfilamiento inicial de los datos de las transacciones.
+Este archivo debe estar en la misma ruta donde se encuentre la carpeta datos_bc.
+
+El archivo Exploracion_clientes.ipynb contiene el entendimiento de los datos, preparacion y
+transformacion con imputacion simple a traves de la moda y media.
+
+El archivo Exploracion de datos.ipynb contiene el entendimiento de los datos, preparacion y
+transformacion con imputacion simple a traves de la moda y media.
+
+
+FASE DE TRANSFORMACION, CLUSTERIZACION Y CLASIFICACION
+
+El archivo Etiqueta.csv contiene una etiqueta de los sectores, subsectores y descripcion de subsectores
+que se encontraron validos para la clasificacion.
+
+El archivo Process.ipynb contiene la transformacion, mineria de datos y clusterizacion de los datos.
+
+El archivo text clasification.ipynb contiene un modelo de clasificacion de textos multiclase.
+
+
+OTROS ANALISIS
+
+El archivo modelo_RFM.xlsx se utilizó para realizar una segmentación de clientes.
