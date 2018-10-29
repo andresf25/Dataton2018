@@ -1,0 +1,143 @@
+sector;subsector;descripcion;categoria_pfm
+servicios financieros;servicios a empresas;actividades administracion empresarial;pago de deudas
+servicios financieros;fondos de pensiones;actividades administracion fondos;pago de deudas
+servicios financieros;servicios a personas;actividades agencias noticias;otros
+servicios financieros;seguros;actividades agentes corredores seguros;pago de deudas
+servicios financieros;servicios a empresas;actividades apoyo educacion;educacion
+servicios financieros;servicios a empresas;actividades arquitectura ingenieria actividades conexas consultoria tecnica;otros
+servicios financieros;servicios a personas;actividades asistencia social alojamiento;pago de deudas
+servicios financieros;servicios a personas;actividades asistencia social alojamiento personas mayores discapacitadas;pago de deudas
+servicios financieros;servicios a empresas;actividades asociaciones empresariales empleadores;pago de deudas
+servicios financieros;servicios a personas;actividades asociaciones profesionales;pago de deudas
+servicios financieros;servicios a personas;actividades asociaciones religiosas;educacion
+servicios financieros;servicios a personas;actividades atencion instituciones alojamiento;otros
+gobierno;ips;actividades atencion salud humana;cuidado personal
+servicios financieros;otros servicios financieros;actividades auxiliares actividades servicios financieros ncp;pago de deudas
+servicios financieros;servicios a empresas;actividades combinadas servicios administrativos oficina;pago de deudas
+construccion;transporte terrestre;actividades complementarias transporte;transporte
+servicios financieros;otros servicios financieros;actividades compra cartera factoring;pago de deudas
+servicios financieros;servicios a empresas;actividades consultaria gestion;pago de deudas
+servicios financieros;servicios a empresas;actividades consultoria informatica actividades administracion instalaciones informaticas;tecnologia y comunicaciones
+servicios financieros;otros servicios financieros;actividades cooperativas financieras;pago de deudas
+servicios financieros;otros servicios financieros;actividades corporaciones financieras;pago de deudas
+servicios financieros;servicios a empresas;actividades desarrollo sistemas informaticos planificacion;tecnologia y comunicaciones
+gobierno;administracion central;actividades ejecutivas administracion publica;pago de deudas
+gobierno;departamentos;actividades ejecutivas administracion publica entes departamentales;pago de deudas
+gobierno;administracion central;actividades ejecutivas administracion publica gobierno central;pago de deudas
+gobierno;municipios;actividades ejecutivas administracion publica municipios;pago de deudas
+servicios financieros;otros servicios financieros;actividades financieras fondos empleados formas asociativas sector solidario;ahorro
+gobierno;ips;actividades hospitales clinicas;cuidado personal
+servicios financieros;servicios a personas;actividades inmobiliarias realizadas bienes propios arrendados;pago de deudas
+servicios financieros;servicios a personas;actividades inmobiliarias realizadas cambio retribucion contrata;pago de deudas
+servicios financieros;servicios a empresas;actividades juridicas;pago de deudas
+gobierno;municipios;actividades legislativas administracion publica municipios;pago de deudas
+gobierno;ips;actividades practica medica;cuidado personal
+gobierno;ips;actividades practica odontologica;cuidado personal
+servicios financieros;servicios a empresas;actividades profesionales;otros
+servicios financieros;servicios a personas;actividades recreativas esparcimiento ncp;entretenimiento
+gobierno;administracion central;actividades reguladoras facilitadoras actividad economica;pago de deudas
+gobierno;municipios;actividades reguladoras facilitadoras actividad economica municipios;pago de deudas
+servicios financieros;servicios a empresas;actividades seguridad privada;pago de deudas
+gobierno;eps y salud prepagada (salud);actividades seguridad social afiliacion obligatoria entidades promotoras salud;cuidado personal
+servicios financieros;servicios a empresas;actividades servicio apoyo empresas ncp;pago de deudas
+servicios financieros;otros servicios financieros;actividades servicio financiero;pago de deudas
+servicios financieros;servicios a empresas;actividades servicio informacion ncp;otros
+servicios financieros;servicios a empresas;actividades servicios sistemas seguridad;tecnologia y comunicaciones
+servicios financieros;servicios a personas;actividades sindicatos empleados;otros
+servicios financieros;servicios a empresas;actividades tecnologias informacion actividades servicios informaticos;tecnologia y comunicaciones
+medios comunicacion;valor agregado;actividades telecomunicacion satelital;tecnologia y comunicaciones
+medios comunicacion;medios;actividades telecomunicaciones;tecnologia y comunicaciones
+medios comunicacion;valor agregado;actividades telecomunicaciones inalambricas;tecnologia y comunicaciones
+servicios financieros;comisionistas de bolsa;administracion mercados financieros;pago de deudas
+agroindustria;conservas;alinos salsas;comida
+construccion;transporte terrestre;almacenamiento deposito;transporte
+gobierno;acueducto y alcantarillado;captacion;pago de deudas
+comercio;distribuidores productos consumo masivo;comercio mayor bebidas tabaco;entretenimiento
+comercio;distribuidores productos consumo masivo;comercio mayor cambio retribucion contrata;otros
+comercio;combustibles y lubricantes;comercio mayor combustibles solidos;transporte
+comercio;comercio de variedades y vestuario;comercio mayor especializado;moda
+comercio;distribuidores productos consumo masivo;comercio mayor materias primas agropecuarias animales vivos;mascotas
+recursos naturales;otras actividades mineras;comercio mayor metales productos metaliferos;pago de deudas
+comercio;comercio de variedades y vestuario;comercio mayor prendas vestir;moda
+comercio;distribuidores productos consumo masivo;comercio mayor productos alimenticios;comida
+comercio;comercio de variedades y vestuario;comercio mayor productos ncp;hogar
+comercio;comercio de variedades y vestuario;comercio mayor productos textiles;moda
+comercio;comercio de variedades y vestuario;comercio mayor utensilios domesticos ncp;hogar
+comercio;comercio de variedades y vestuario;comercio menor articulos utensilios uso domestico;hogar
+comercio;supermercados;comercio menor establecimientos especializados;comida
+comercio;supermercados;comercio menor establecimientos especializados surtido compuesto principalmente alimentos;comida
+comercio;comercio de variedades y vestuario;comercio menor libros;entretenimiento
+comercio;comercio de variedades y vestuario;comercio menor prendas vestir accesorios incluye articulos piel establecimientos especializados;moda
+comercio;comercio de variedades y vestuario;comercio menor productos nuevos establecimientos especializados;moda
+comercio;comercio de variedades y vestuario;comercio menor productos textiles establecimientos especializados;moda
+comercio;comercio de variedades y vestuario;comercio menor realizado traves casas venta correo;moda
+comercio;comercio de variedades y vestuario;comercio menor realizado traves internet;moda
+comercio;automotores;comercio motocicletas partes;transporte
+comercio;comercio de repuestos;comercio partes;otros
+comercio;comercio de repuestos;comercio repuestos autos;transporte
+comercio;automotores;concecionarios automobiles;transporte
+comercio;textiles;confeccion articulos materiales textiles;moda
+comercio;confecciones;confeccion prendas vestir;moda
+construccion;obras de infraestructura;construccion carreteras vias ferrocarril;pago de deudas
+construccion;edificaciones;construccion edificaciones;pago de deudas
+construccion;edificaciones;construccion edificios residenciales;pago de deudas
+construccion;obras de infraestructura;construccion obras ingenieria civil;pago de deudas
+comercio;comercio de farmaceuticos;cosmeticos productos tocador;ciudado personal
+manufactura insumos;imprentas y edicion;edicion libros;entretenimiento
+medios comunicacion;medios;edicion periodicos;entretenimiento
+medios comunicacion;medios;edicion revistas;entretenimiento
+gobierno;establecimientos educativos;educacion basica primaria;educacion
+gobierno;establecimientos educativos;educacion basica secundaria;educacion
+gobierno;establecimientos educativos;educacion instituciones universitarias escuelas tecnologicas;educacion
+gobierno;establecimientos educativos;educacion media academica;educacion
+gobierno;establecimientos educativos;educacion media tecnica formacion laboral;educacion
+gobierno;establecimientos educativos;educacion preescolar;educacion
+gobierno;establecimientos educativos;educacion tecnica profesional;educacion
+gobierno;establecimientos educativos;educacion universidades;educacion
+agroindustria;alimentos concentrados;elaboracion alimentos preparados animales;comida
+agroindustria;bebidas no alcoholicas;elaboracion bebidas alcoholicas;comida
+agroindustria;arroz;elaboracion productos molineria arroz;comida
+servicios financieros;servicios a empresas;ensayos analisis tecnicos;otros
+servicios financieros;servicios a personas;ensenanza cultural;educacion
+gobierno;establecimientos educativos;establecimientos combinan diferentes niveles educacion;educacion
+servicios financieros;servicios a personas;expendio autoservicio comidas preparadas;comida
+servicios financieros;servicios a personas;expendio mesa comidas preparadas;comida
+manufactura insumos;plastico;fabricacion articulos plastico ncp;otros
+manufactura insumos;cemento;fabricacion cemento;otros
+comercio;manufactura de productos de tocador y articulos de aseo;fabricacion jabones detergentes;hogar
+manufactura insumos;madera y muebles;fabricacion muebles;hogar
+manufactura insumos;madera y muebles;fabricacion partes piezas madera;hogar
+manufactura insumos;agroquimicos;fabricacion plaguicidas productos quimicos uso agropecuario;otros
+manufactura insumos;productos metalicos;fabricacion productos elaborados metal ncp;otros
+comercio;manufactura de productos farmaceuticos;fabricacion productos farmaceuticos;cuidado personal
+manufactura insumos;productos ceramicos;fabricacion productos minerales metalicos ncp;otros
+servicios financieros;fiduciarias;fideicomisos;pago de deudas
+gobierno;establecimientos educativos;formacion academica formal;educacion
+recursos naturales;electricidad;generacion energia electrica;hogar
+servicios financieros;servicios a personas;gestion instalaciones deportivas;entretenimiento
+manufactura insumos;otros manufactura;industrias manufactureras ncp;otros
+servicios financieros;servicios a empresas;investigaciones desarrollo experimental campo ciencias naturales ingenieria;educacion
+servicios financieros;companias de financiamiento comercial;leasing financiero arrendamiento financiero;pago de deudas
+servicios financieros;servicios a empresas;limpieza general interior edificios;pago de deudas
+servicios financieros;servicios a personas;mantenimiento reparacion efectos personales enseres domesticos;otros
+servicios financieros;servicios a empresas;mantenimiento reparacion especializado maquinaria equipo;tecnologia y comunicaciones
+comercio;automotores;mantenimiento reparacion vehiculos automotores;transporte
+manufactura insumos;ferreteria;materiales construccion maquinaria;otros
+comercio;comercio de electrodomesticos;muebles computadores;tecnologia y comunicaciones
+servicios financieros;servicios a empresas;obtencion suministro personal empresas servicio temporal;pago de deudas
+servicios financieros;servicios a personas;pompas funebres actividades relacionadas;pago de deudas
+servicios financieros;servicios a empresas;procesamiento datos;tecnologia y comunicaciones
+servicios financieros;servicios a empresas;publicidad;entretenimiento
+gobierno;aseo;recoleccion desechos peligrosos;pago de deudas
+gobierno;municipios;regulacion actividades organismos prestan servicios salud;cuidado personal
+servicios financieros;seguros;seguros generales;pago de deudas
+servicios financieros;seguros;seguros vida;pago de deudas
+medios comunicacion;telefonia fija;servicios telefonia fija;tecnologia y comunicaciones
+comercio;textiles;tejeduria productos textiles;moda
+servicios financieros;servicios a personas;tipos educacion ncp;educacion
+servicios financieros;servicios a personas;tipos expendio comidas preparadas ncp;comida
+construccion;transporte aereo;transporte aereo internacional carga;transporte
+construccion;transporte terrestre;transporte carga carretera;transporte
+construccion;transporte terrestre;transporte pasajeros;viajes
+gobierno;aseo;tratamiento disposicion desechos peligrosos;pago de deudas
+servicios financieros;hoteles;turismo agencias turismo;viajes
