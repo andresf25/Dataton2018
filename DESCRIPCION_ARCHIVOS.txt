@@ -4,7 +4,7 @@ FASE DE EXPLORACION Y IMPUTACION DE DATOS
 El archivo datos_bc.csv.profile.html tiene un perfilamiento inicial de los datos de las transacciones.
 Este archivo debe estar en la misma ruta donde se encuentre la carpeta datos_bc.
 
-El archivo Exploracion clientes.ipynb contiene el entendimiento de los datos, preparacion y
+El archivo Exploracion_clientes.ipynb contiene el entendimiento de los datos, preparacion y
 transformacion con imputacion simple a traves de la moda y media.
 
 El archivo Exploracion de datos.ipynb contiene el entendimiento de los datos, preparacion y
